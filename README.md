@@ -68,14 +68,14 @@ Base Weights are taken from imagenet
 
 Accuracy – 0.97198       
 
-
+'''
 	precision    	recall  	f1-score   	support
 Covid-19	0. 94286   	0.97059	0.95652	34
 Normal    	0. 97642   	0.96279	0. 96956       	215
 Pneumonia    	0. 97235   	0. 98140   	0. 97685       	215
 Macro Avg	0. 96387   	0. 97159   	0. 96764       	464
 Weighted Avg	0. 97207   	0. 97198   	0. 97198       	464
-
+'''
 Screenshot of Results
  
 
