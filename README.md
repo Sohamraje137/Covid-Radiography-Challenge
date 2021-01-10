@@ -1,7 +1,7 @@
 # Covid-Radiography-Challenge
-A deep learning model was developed which could identify if the person is suffering from Covid-19 or pneumonia or is a normal person
+A deep learning model was developed which could identify if the person is suffering from Covid-19 or pneumonia or is a normal person based on the patients X-Rays.
 
-COVID19 Classification Challenge
+COVID19 Classification Challenge https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
 
 
 # Report
@@ -105,7 +105,7 @@ Training Loss
 All necessary installs are written in the jupyter notebook.
 Tensorflow 2.0.2
 Other requirements:
-RAM>= 13GB
+RAM>= 16GB
 (if there is collision please contact us at sohampatil798@gmail.com)
 
 ## Observations:
